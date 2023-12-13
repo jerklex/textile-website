@@ -1,0 +1,30 @@
+.product{
+        
+        display: flex;
+}
+.side{
+    background:#404040;
+    width: 200px;
+}
+.side ul{
+    color:white;
+    padding:20px 40px 0px;
+    list-style: none;
+}
+.side ul li{
+    padding:20px 0px 0px;
+    font-family: 'Inter', sans-serif;
+    color:white;
+}
+.side ul h1{
+font-family: 'oswald' , sans-serif;
+}
+.prods{
+    text-align: center;
+    padding: 50px;
+    width: 300px;
+    float:left;
+    cursor: pointer;
+    
+}
+
